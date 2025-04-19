@@ -51,7 +51,7 @@ I'm currently following the official [DevOps Roadmap](https://roadmap.sh/devops)
 
 👉 [https://roadmap.sh/u/exidore](https://roadmap.sh/u/exidore)
  
-[![roadmap.sh](https://roadmap.sh/card/tall/67f1577d2fb824bbb5d83f05?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6803c426d7a904b5effa89b8?variant=dark)](https://roadmap.sh)
 
 ---
  
