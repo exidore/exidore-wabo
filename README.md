@@ -14,15 +14,16 @@ IT professional with 10+ years of hands-on experience in Tier 1/Tier 2 help desk
 🗓️ *Oct 2024 – Present*
  
 IT Support Specialist | Healthcare Government Contractor, Washington, DC | 2024 – Present 
-•	Provided Tier 1 and Tier 2 support for users in Google cloud and enterprise environments.
-•	Assisted with account provisioning and identity administration activities. 
-•	Supported Microsoft 365 administration and endpoint deployments. 
-•	Performed troubleshooting for hardware, software, and cloud-related issues. 
-•	Created SOPs, end-user guides, and support documentation. 
-•	Assisted with ticket management and issue escalation processes. 
-•	Coordinated with technical teams and vendors to ensure timely issue resolution 
-•	Company’s point of contact for IT Quality and all certifications as well as CARF.
-•	Actively developing cloud-native skills through hands-on labs covering AWS, Kubernetes, Docker, Linux, Git, and CI/CD concepts.
+- Reviewed AD roles/permissions and enforced access control policies
+- Provided Tier 1 and Tier 2 support for users in Google cloud and enterprise environments.
+- Assisted with account provisioning and identity administration activities.
+- Supported Microsoft 365 administration and endpoint deployments.
+- Performed troubleshooting for hardware, software, and cloud-related issues.
+- Created SOPs, end-user guides, and support documentation.
+- Assisted with ticket management and issue escalation processes.
+- Coordinated with technical teams and vendors to ensure timely issue resolution
+- Company’s point of contact for IT Quality and all certifications as well as CARF
+- Actively developing cloud-native skills through hands-on labs covering AWS, Kubernetes, Docker, Linux, Git, and CI/CD concepts.
 
  
 ### **Senior IT Operations/Technical Support **  
