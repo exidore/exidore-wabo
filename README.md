@@ -1,9 +1,9 @@
 # 👨🏾‍💻 Exidore Wabo
  
-**DevSecOps Engineer | Cloud Infrastructure Specialist | Security+ Certified**  
+**System Administrator | Cloud Infrastructure Specialist | Security+ Certified**  
 *Silver Spring, MD*
  
-Results-driven DevSecOps Engineer with 10+ years of IT experience and 5+ years in DevSecOps roles supporting Azure, Kubernetes, and CI/CD pipelines. Adept at automating secure deployments using Terraform, Helm, and Git-based workflows. Experienced with hybrid cloud environments, container orchestration, and Linux system administration. Clearance-eligible, Security+, A+, Network+,Azure certified, and ready for full engagement supporting all mission-critical systems.
+IT professional with 10+ years of hands-on experience in Tier 1/Tier 2 help desk support, systems administration, and network operations across multi-site environments. Comfortable owning ticket triage, user access management, and troubleshooting end-to-end, and experienced building support documentation and processes from the ground up. Security Sysa+ certified, meeting DoD 8570 IAT Level II requirements. Recognized for quickly troubleshooting issues, collaborating across teams, and continuously learning new technologies. Currently pursuing an M.S. in Cybersecurity & Information Assurance and actively building hands-on depth in AWS, Kubernetes, containerized applications, and CI/CD to grow into cloud-native and DevOps-adjacent engineering work.
  
 ---
  
